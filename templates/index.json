@@ -212,7 +212,7 @@
         "scrolling_speed": 6,
         "background": "",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#2b302c",
         "text_gradient": ""
       }
     },
@@ -279,7 +279,7 @@
         "link_text": "Ver tudo",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#2b302c",
         "heading_color": "",
         "heading_gradient": ""
       }
@@ -337,9 +337,9 @@
         "impact_text_size_ratio": 1,
         "background": "",
         "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)",
-        "text_color": "",
+        "heading_text_color": "#2b302c",
+        "heading_gradient": "linear-gradient(180deg, rgba(43, 48, 44, 1) 29%, rgba(43, 48, 45, 1) 30%, rgba(26, 26, 26, 0) 100%)",
+        "text_color": "#2b302c",
         "button_background": "",
         "button_text_color": ""
       }
@@ -510,7 +510,7 @@
         "drag_initial_position": 50,
         "background": "",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#2b302c",
         "before_text_color": "#ffffff",
         "after_text_color": "#ffffff",
         "drag_cursor_background": "#ffffff",
@@ -550,7 +550,7 @@
         "content_size": "medium",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#2b302c",
         "heading_color": "",
         "heading_gradient": "",
         "logo_item_background": "",
@@ -663,7 +663,7 @@
         "collage_images_alignment": "middle",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#2b302c",
         "button_background": "",
         "button_text_color": ""
       }

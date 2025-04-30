@@ -22,7 +22,7 @@
             "icon_width": 24,
             "icon_background_type": "none",
             "icon_background": "",
-            "icon_color": "",
+            "icon_color": "#3c463e",
             "title": "Frete Gratis para todo Brasil",
             "content": "<p>Enviamos para qualquer lugar do <strong>Brasil</strong> e o frete fica por nossa conta.</p>"
           }
@@ -35,7 +35,7 @@
             "icon_width": 24,
             "icon_background_type": "none",
             "icon_background": "",
-            "icon_color": "",
+            "icon_color": "#3c463e",
             "title": "Suporte ao Cliente",
             "content": "<p>Nosso atendimento é via <strong>WhatsApp</strong> de <strong>Seg a Sex</strong> das 09:00 as 18:00.</p>"
           }
@@ -48,7 +48,7 @@
             "icon_width": 24,
             "icon_background_type": "none",
             "icon_background": "",
-            "icon_color": "",
+            "icon_color": "#3c463e",
             "title": "Varias Promoções",
             "content": "<p>Toda semana atualizamos nossas promoções</p>"
           }
@@ -61,7 +61,7 @@
             "icon_width": 24,
             "icon_background_type": "none",
             "icon_background": "",
-            "icon_color": "",
+            "icon_color": "#3c463e",
             "title": "Ambiente Seguro",
             "content": "<p>Ambiente <strong>confiavel e seguro</strong> para melhor comodidade e melhor atendimento aos clientes.</p>"
           }
@@ -82,7 +82,7 @@
         "icon_spacing": "small",
         "background": "",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#2b302c"
       }
     },
     "footer": {
