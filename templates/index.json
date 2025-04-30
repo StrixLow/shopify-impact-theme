@@ -209,7 +209,7 @@
         "text_size": "medium",
         "text_style": "fill",
         "scrolling_mode": "auto",
-        "scrolling_speed": 3,
+        "scrolling_speed": 4,
         "background": "#ced6cf",
         "background_gradient": "",
         "text_color": "#2b302c",
