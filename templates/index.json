@@ -520,7 +520,7 @@
           "settings": {
             "logo_width": 100,
             "author": "",
-            "content": "Não gostou do produto?  É só entrar em contado que reembolsamos seu dinheiro!",
+            "content": "Precisando de ajuda? Entre em contato conosco",
             "show_rating": false,
             "rating": 4
           }
@@ -554,7 +554,7 @@
             "vertical_position_mobile": 70,
             "icon_width": 32,
             "title": "Caimento Impecavel",
-            "content": "<p>Nossas roupas contam com a costura com otimo acabamento, o que resulta em um caimento perfeito!</p>"
+            "content": "<p>Nossas roupas contam com uma costura de ponta, levando você até sua melhor versão.</p>"
           }
         },
         "1664424434f5b7d0e0-1": {
@@ -565,8 +565,8 @@
             "horizontal_position_mobile": 62,
             "vertical_position_mobile": 14,
             "icon_width": 32,
-            "title": "Malha Premium",
-            "content": "<p>Todos nossos produtos contam com o melhor em tecidos que não te incomodam e duram muito!</p>"
+            "title": "Seu conforto - Nosso conforto.",
+            "content": "<p>Sempre levando o que há de melhor para você!</p>"
           }
         },
         "1664424434f5b7d0e0-2": {
@@ -577,8 +577,8 @@
             "horizontal_position_mobile": 83,
             "vertical_position_mobile": 75,
             "icon_width": 32,
-            "title": "Infinidade de Opções",
-            "content": "<p>Alem de varios de nossos produtos contar com varias cores diferente para combinar com seu guarda-roupas!</p>"
+            "title": "Do seu estilo!",
+            "content": "<p>Contamos com vários modelos para te acompanhar em sua jornada.</p>"
           }
         }
       },
@@ -620,7 +620,7 @@
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Elegancia!",
-            "content": "<p>Vestido Elegante e de alto padrão, para você que deseja chamar atenção por onde passa!</p>",
+            "content": "<p>Vestidos de alto padrão, para você que deseja o seu Glamour.</p>",
             "button_url": "",
             "button_text": ""
           }
@@ -666,8 +666,8 @@
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "Não gostou do produto?",
-            "content": "<p>Trabalhamos com muito cuidado para oferecer produtos de qualidade que encantem você. Mas, se por algum motivo o item recebido não atender às suas expectativas, fique tranquilo(a).</p><p>De acordo com o Código de Defesa do Consumidor, você tem até <strong>7 dias corridos após o recebimento</strong> para solicitar a devolução por arrependimento, caso a compra tenha sido feita online.</p><p><strong>Como funciona:</strong></p><p><br/>sem uso, em perfeitas condições e com a <strong>embalagem original</strong>.<br/></p><p><br/><br/></p><p><br/><br/></p><p>Nosso compromisso é com a sua satisfação. Qualquer dúvida, estamos prontos para ajudar com agilidade e atenção.</p>"
+            "title": "Algo de errado com o produto?",
+            "content": "<p>Sempre exercemos o máximo cuidado com seu produto. No entanto, caso venha a ocorrer qualquer problema fique tranquilo(a).</p><p>Após o recebimento de sua encomenda, sempre haverá um prazo de <strong>7 dias</strong> para efetuar a devolução do produto.</p><p>Para a devolução ser <strong>legítima</strong>, o produto, lacre e embalagem original devem estar <strong>preservados</strong>.</p><p>Nosso compromisso com sua satisfação é <strong>essencial.</strong> Qualquer dúvida, estaremos sempre disponíveis para te atender.</p>"
           }
         },
         "166442457738b23caf-2": {
@@ -689,7 +689,7 @@
         "title": "Suporte ao Cliente",
         "content": "<p>Como podemos te ajudar?</p>",
         "team_avatar_width": 160,
-        "support_hours": "Estamos disponiveis no WhatsApp das 08:00 as 18:00!",
+        "support_hours": "Estamos disponíveis no WhatsApp das 08:00 as 18:00!",
         "answer_time": "Qualquer duvida chama a gente!",
         "button_text": "",
         "button_url": "",
