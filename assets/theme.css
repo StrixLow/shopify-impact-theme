@@ -9878,3 +9878,13 @@ split-lines {
   display: -webkit-box;
   overflow: hidden;
 }
+/* Altera a cor do preço riscado para vermelho */
+s.price-item--regular,
+.price--sale .price-item--regular,
+.variant-item__old-price,
+.price del,
+.price s,
+.price--compare-at s {
+  color: #ff0000 !important; /* Vermelho */
+  text-decoration: line-through;
+}
