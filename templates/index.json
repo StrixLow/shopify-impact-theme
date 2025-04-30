@@ -290,7 +290,7 @@
         "collection": "moda-masculina-1",
         "products": [],
         "full_width": false,
-        "stack_products": true,
+        "stack_products": false,
         "show_progress_bar": false,
         "products_count": 8,
         "products_per_row_mobile": "2",
@@ -302,11 +302,11 @@
         "link_text": "Ver tudo",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#000000",
         "heading_color": "",
         "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
+        "product_card_background": "#f0f0f0",
+        "product_card_text_color": "#000000"
       }
     },
     "impact-text": {

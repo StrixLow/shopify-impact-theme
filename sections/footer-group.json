@@ -24,7 +24,7 @@
             "icon_background": "",
             "icon_color": "",
             "title": "Frete Gratis para todo Brasil",
-            "content": "<p>O frete e por nossa conta!</p>"
+            "content": "<p>Enviamos para qualquer lugar do <strong>Brasil</strong> e o frete fica por nossa conta.</p>"
           }
         },
         "customer-support": {
@@ -37,7 +37,7 @@
             "icon_background": "",
             "icon_color": "",
             "title": "Suporte ao Cliente",
-            "content": "<p>Estamos sempre atentos aos canais  de suporte!</p>"
+            "content": "<p>Nosso atendimento é via <strong>WhatsApp</strong> de <strong>Seg a Sex</strong> das 09:00 as 18:00.</p>"
           }
         },
         "discount": {
@@ -62,8 +62,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Pagamento Seguro",
-            "content": "<p>Nossa loja conta com um sistema totalmente seguro e confiável</p>"
+            "title": "Ambiente Seguro",
+            "content": "<p>Ambiente <strong>confiavel e seguro</strong> para melhor comodidade e melhor atendimento aos clientes.</p>"
           }
         }
       },
