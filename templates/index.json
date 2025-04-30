@@ -115,7 +115,7 @@
         "1664424046b00c932c-1": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/S8e09f783caa84ee89159d1400ab21de18.webp",
+            "image": "shopify://shop_images/Se9f8af6cdc3941b8911679bcc39bdaccV.webp",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -128,7 +128,7 @@
         "1664424046b00c932c-2": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/S9461e2af242745b386725584fef9725ao.webp",
+            "image": "shopify://shop_images/S47cf26d66a1040b48e61fff16166fa2aI.webp",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -163,6 +163,19 @@
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
+        },
+        "item_UWbnM7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/S064cacf4f555419c9bfb996b011745140.webp",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
@@ -170,11 +183,12 @@
         "1664424046b00c932c-1",
         "1664424046b00c932c-2",
         "1664424046b00c932c-3",
-        "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
+        "e4a0ef18-1856-4ddd-83d8-871a60d7acac",
+        "item_UWbnM7"
       ],
       "settings": {
-        "full_width": false,
-        "block_size": "medium",
+        "full_width": true,
+        "block_size": "small",
         "subheading": "",
         "title": "",
         "content": "",
@@ -191,8 +205,8 @@
       "type": "scrolling-text",
       "settings": {
         "full_width": true,
-        "text": "Produtos Até 40% De Desconto",
-        "text_size": "large",
+        "text": "Produtos Até 50% De Desconto",
+        "text_size": "medium",
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 6,
@@ -306,7 +320,7 @@
             "content": "",
             "button_text": "",
             "button_url": "",
-            "animate_impact_text": false,
+            "animate_impact_text": true,
             "animate_impact_text_duration": 2
           }
         }
