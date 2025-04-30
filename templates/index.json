@@ -632,7 +632,7 @@
             "image_rotation_degrees": 1.5,
             "subheading": "",
             "title": "Conforto!",
-            "content": "<p>Os produtos LarCasual contam com malha confortáveis e de material de altíssima qualidade, proporcionando a você uma experiência única!</p>",
+            "content": "<p>Os produtos LarCasual contam com tecidos confortáveis e de altíssima qualidade, proporcionando a você uma experiência única!</p>",
             "button_url": "",
             "button_text": ""
           }
@@ -660,7 +660,7 @@
           "type": "item",
           "settings": {
             "title": "Qual prazo de entrega?",
-            "content": "<p>Sabemos que a expectativa pela chegada do seu pedido é grande, e queremos que você se sinta seguro(a) e tranquilo(a) durante todo o processo.</p><p>O prazo estimado de entrega para os nossos produtos varia de <strong>12 a 30 dias úteis</strong>, pois trabalhamos com fornecedores internacionais e nacionais que prezam pela qualidade e exclusividade de cada item.</p><p><strong>Por que esse prazo?</strong><br/><br/>Para garantir preços acessíveis, variedade e produtos diferenciados, alguns itens são enviados diretamente de nossos parceiros fora do Brasil. Isso permite que você receba peças únicas, com ótimo custo-benefício, direto na sua casa.</p><p><strong>Acompanhamento do Pedido</strong><br/><br/>Após a confirmação da sua compra, você receberá todas as atualizações por e-mail. Assim, é possível acompanhar cada etapa da entrega com total transparência e segurança.</p><p><strong>Vale a espera</strong><br/><br/>Cada produto é escolhido com carinho para transformar seu dia a dia com mais estilo, conforto e praticidade. Temos certeza de que, quando ele chegar, você vai se encantar.</p><p>Se ainda tiver qualquer dúvida, nossa equipe está pronta para te atender com atenção e cuidado.</p>"
+            "content": "<p>Sabemos que a expectativa pela chegada do seu pedido é grande, e queremos que você se sinta seguro(a) e tranquilo(a) durante todo o processo.</p><p>O prazo estimado de entrega para os nossos produtos varia de <strong>12 a 30 dias úteis</strong>, pois trabalhamos com fornecedores internacionais e nacionais que prezam pela qualidade e exclusividade de cada item.<br/><br/>Para garantir preços acessíveis, variedade e produtos únicos, alguns de nossos produtos são enviados diretamente de nossos parceiros fora do Brasil. Isso permite que você receba peças únicas, com ótimo custo-benefício, direto na sua casa.</p><p><strong>Acompanhamento do Pedido</strong><br/><br/>Após a confirmação da sua compra, você receberá todas as atualizações por e-mail. Assim, é possível acompanhar cada etapa da entrega com total transparência e segurança.</p><p><strong>Vale a espera</strong><br/><br/>Cada produto é escolhido com carinho para transformar seu dia a dia com mais estilo, conforto e praticidade. Temos certeza do seu <strong>glamour</strong> após o recebimento do seu pedido</p><p></p><p>Caso haja qualquer dúvida, nossa equipe está pronta para te atender com toda maestria.</p>"
           }
         },
         "166442457738b23caf-1": {
@@ -689,8 +689,8 @@
         "title": "Suporte ao Cliente",
         "content": "<p>Como podemos te ajudar?</p>",
         "team_avatar_width": 160,
-        "support_hours": "Estamos disponíveis no WhatsApp das 08:00 as 18:00!",
-        "answer_time": "Qualquer duvida chama a gente!",
+        "support_hours": "Estamos disponíveis no WhatsApp e email das 08:00 as 18:00!",
+        "answer_time": "Qualquer dúvida sempre estaremos disponíveis!",
         "button_text": "",
         "button_url": "",
         "text_position": "start",
