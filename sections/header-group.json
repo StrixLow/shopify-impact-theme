@@ -20,10 +20,26 @@
             "text": "FRETE GRATIS PARA TODO BRASIL",
             "url": ""
           }
+        },
+        "message_qnPYd6": {
+          "type": "message",
+          "settings": {
+            "text": "PRODUTOS ATÉ 50% OFF",
+            "url": ""
+          }
+        },
+        "message_w6UV4z": {
+          "type": "message",
+          "settings": {
+            "text": "Em até 12 vezes nos cartões",
+            "url": ""
+          }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_qnPYd6",
+        "message_w6UV4z"
       ],
       "settings": {
         "enable_sticky": false,
