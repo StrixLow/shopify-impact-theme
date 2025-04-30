@@ -363,7 +363,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/Banner_para_loja_online_de_roupas_conforto_e_estilo_para_cada_ocasiao_3200_x_1600_px_1f6fca5a-c3b2-4660-ad51-57758b27978b.png",
-        "mobile_image": "shopify://shop_images/Banner_para_loja_online_de_roupas_conforto_e_estilo_para_cada_ocasiao_3200_x_1600_px_1300_x_1500_px.png",
+        "mobile_image": "shopify://shop_images/Banner_Mobile.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -553,7 +553,7 @@
             "horizontal_position_mobile": 24,
             "vertical_position_mobile": 70,
             "icon_width": 32,
-            "title": "Caimento Impecavel",
+            "title": "O Melhor para você!",
             "content": "<p>Nossas roupas contam com uma costura de ponta, levando você até sua melhor versão.</p>"
           }
         },
@@ -674,7 +674,7 @@
           "type": "item",
           "settings": {
             "title": "Quer falar com nossa equipe?",
-            "content": "<p>Entre em contato pelo WhatsApp, estamos esperando você.</p>"
+            "content": "<p>Estaremos sempre disponíveis via WhatsApp ou email.</p><p>Contato aos finais de semana somente via email.</p>"
           }
         }
       },

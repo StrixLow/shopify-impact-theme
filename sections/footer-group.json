@@ -37,7 +37,7 @@
             "icon_background": "",
             "icon_color": "#3c463e",
             "title": "Suporte ao Cliente",
-            "content": "<p>Nosso atendimento é via <strong>WhatsApp</strong> de <strong>Seg a Sex</strong> das 09:00 as 18:00.</p>"
+            "content": "<p>Nosso atendimento é via <strong>WhatsApp</strong> de <strong>Seg a Sex</strong> das 08:00 as 18:00.</p>"
           }
         },
         "discount": {
@@ -49,8 +49,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "#3c463e",
-            "title": "Varias Promoções",
-            "content": "<p>Toda semana atualizamos nossas promoções</p>"
+            "title": "Do seu preço!",
+            "content": "<p>Toda semana atualizamos a lista de promoções.</p>"
           }
         },
         "payment": {
