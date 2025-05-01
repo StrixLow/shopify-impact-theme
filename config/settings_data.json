@@ -74,11 +74,6 @@
         "type": "shopify://apps/forms/blocks/forms/8744a304-fcb1-4347-b211-bb6b4759a76a",
         "disabled": false,
         "settings": {}
-      },
-      "6251270934270006384": {
-        "type": "shopify://apps/stape-server-gtm/blocks/gtm/7e13c847-7971-409d-8fe0-29ec14d5f048",
-        "disabled": false,
-        "settings": {}
       }
     }
   },
