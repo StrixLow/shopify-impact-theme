@@ -187,7 +187,7 @@
         "item_UWbnM7"
       ],
       "custom_css": [
-        ".image-link-blocks__image,.zoom-image {width: 1000px; height: 1200px; object-fit: cover; /* Garante que a imagem seja redimensionada sem distorcer a proporção */ display: block; margin: 0 auto; /* Centraliza a imagem */}"
+        ".image-link-blocks__image,.zoom-image {width: 400px; height: 500px; object-fit: cover; /* Garante que a imagem seja redimensionada sem distorcer a proporção */ display: block; margin: 0 auto; /* Centraliza a imagem */}"
       ],
       "settings": {}
     },
