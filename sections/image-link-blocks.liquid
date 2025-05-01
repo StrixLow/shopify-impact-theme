@@ -54,8 +54,7 @@ LIQUID
             {%- if block.settings.stretch_image -%}
               {%- capture item_content -%}
                 {%- if block.settings.image != blank -%}
-                  <!-- A imagem agora tem tamanho fixo de 1000x1200 -->
-                  {{- block.settings.image | image_url: width: 1000, height: 1200 | image_tag: loading: 'lazy', sizes: '(max-width: 699px) 160px, 285px', widths: '200,300,400,500,600,700,800,900,1000,1200', class: 'zoom-image' -}}
+                  {{- block.settings.image | image_url: width: block.settings.image.width | image_tag: loading: 'lazy', sizes: '(max-width: 699px) 160px, 285px', widths: '200,300,400,500,600,700,800,900,1000,1200', class: 'zoom-image' -}}
                 {%- else -%}
                   {{- 'image' | placeholder_svg_tag: 'zoom-image placeholder' -}}
                 {%- endif -%}
@@ -83,8 +82,7 @@ LIQUID
             {%- else -%}
               <a {% if block.settings.link_url != blank %}href="{{ block.settings.link_url }}"{% endif %} class="image-link-blocks__inner">
                 {%- if block.settings.image != blank -%}
-                  <!-- A imagem agora tem tamanho fixo de 1000x1200 -->
-                  {{- block.settings.image | image_url: width: 1000, height: 1200 | image_tag: loading: 'lazy', sizes: '(max-width: 699px) 160px, 285px', widths: '200,300,400,500,600,700,800,900,1000,1200', class: 'image-link-blocks__image zoom-image' -}}
+                  {{- block.settings.image | image_url: width: block.settings.image.width | image_tag: loading: 'lazy', sizes: '(max-width: 699px) 160px, 285px', widths: '200,300,400,500,600,700,800,900,1000,1200', class: 'image-link-blocks__image zoom-image' -}}
                 {%- else -%}
                   {{- 'image' | placeholder_svg_tag: 'image-link-blocks__image placeholder' -}}
                 {%- endif -%}
@@ -186,15 +184,112 @@ LIQUID
           "min": 0,
           "max": 100,
           "step": 1,
-          "default": 50
+          "unit": "%",
+          "default": 0
         }
       ]
     }
   ],
+  "settings": [
+    {
+      "type": "checkbox",
+      "id": "full_width",
+      "label": "Full width",
+      "default": false
+    },
+    {
+      "type": "select",
+      "id": "block_size",
+      "label": "Block size",
+      "options": [
+        {
+          "value": "small",
+          "label": "Small"
+        },
+        {
+          "value": "medium",
+          "label": "Medium"
+        },
+        {
+          "value": "large",
+          "label": "Large"
+        }
+      ],
+      "default": "medium"
+    },
+    {
+      "type": "text",
+      "id": "subheading",
+      "label": "Subheading"
+    },
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Heading"
+    },
+    {
+      "type": "richtext",
+      "id": "content",
+      "label": "Content"
+    },
+    {
+      "type": "url",
+      "id": "link_url",
+      "label": "Link URL"
+    },
+    {
+      "type": "text",
+      "id": "link_text",
+      "label": "Link text"
+    },
+    {
+      "type": "header",
+      "content": "Colors",
+      "info": "Gradient replaces solid colors when set."
+    },
+    {
+      "type": "color",
+      "id": "background",
+      "label": "Background"
+    },
+    {
+      "type": "color_background",
+      "id": "background_gradient",
+      "label": "Background gradient"
+    },
+    {
+      "type": "color",
+      "id": "text_color",
+      "label": "Text"
+    },
+    {
+      "type": "color",
+      "id": "heading_color",
+      "label": "Heading color"
+    },
+    {
+      "type": "color_background",
+      "id": "heading_gradient",
+      "label": "Heading gradient"
+    }
+  ],
   "presets": [
     {
-      "name": "Default",
-      "category": "Image & Video"
+      "name": "Image link blocks",
+      "blocks": [
+        {
+          "type": "item"
+        },
+        {
+          "type": "item"
+        },
+        {
+          "type": "item"
+        },
+        {
+          "type": "item"
+        }
+      ]
     }
   ]
 }
