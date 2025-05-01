@@ -242,6 +242,9 @@
         "collection-2",
         "collection-3"
       ],
+      "custom_css": [
+        ".image-link-blocks__image,.zoom-image {width: 400px; height: 400px; object-fit: cover; /* Garante que a imagem seja redimensionada sem distorcer a proporção */ display: block; margin: 0 auto; /* Centraliza a imagem */}"
+      ],
       "settings": {
         "full_width": true,
         "stack_collections": false,
