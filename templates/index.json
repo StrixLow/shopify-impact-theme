@@ -15,8 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Banner_para_loja_online_de_calcados_com_parcelamentos_verde_e_branco_2800_x_1000_px.png",
-            "mobile_image": "shopify://shop_images/Banner_para_loja_online_de_calcados_com_parcelamentos_verde_e_branco_2800_x_1000_px_1200_x_1600_px_1.png",
+            "image": "shopify://shop_images/Banner_para_loja_online_de_calcados_com_parcelamentos_verde_e_branco_2800_x_1000_px_2.png",
+            "mobile_image": "shopify://shop_images/Banner_para_loja_online_de_calcados_com_parcelamentos_verde_e_branco_2800_x_1000_px_1200_x_1600_px_3.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -37,8 +37,8 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Banner_para_loja_online_de_calcados_com_parcelamentos_verde_e_branco_1800_x_600_mm_2800_x_1000_px.png",
-            "mobile_image": "shopify://shop_images/Banner_para_loja_online_de_calcados_com_parcelamentos_verde_e_branco_1800_x_600_mm_2800_x_1000_px_1200_x_1600_px.png",
+            "image": "shopify://shop_images/Banner_para_loja_online_de_calcados_com_parcelamentos_verde_e_branco_1800_x_600_mm_2800_x_1000_px_1.png",
+            "mobile_image": "shopify://shop_images/Banner_para_loja_online_de_calcados_com_parcelamentos_verde_e_branco_1800_x_600_mm_2800_x_1000_px_1200_x_1600_px_1.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -59,8 +59,30 @@
         "image_AMnieL": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Banner_para_loja_online_site_super_seguro_mercado_shops_medio_2800_x_1000_px.png",
+            "image": "shopify://shop_images/Banner_para_loja_online_site_super_seguro_mercado_shops_medio_2800_x_1000_px_1.png",
             "mobile_image": "shopify://shop_images/Banner_para_loja_online_site_super_seguro_mercado_shops_medio_2800_x_1000_px_1200_x_1600_px_1.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 10,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_jX9XBF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Banner_Frete_Gratis_de_roupas_para_Mercado_Shops_3200_x_1600_px_1.png",
+            "mobile_image": "shopify://shop_images/Banner_Frete_Gratis_de_roupas_para_Mercado_Shops_3200_x_1600_px_1200_x_1600_px.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -82,7 +104,8 @@
       "block_order": [
         "slide-1",
         "slide-2",
-        "image_AMnieL"
+        "image_AMnieL",
+        "image_jX9XBF"
       ],
       "settings": {
         "full_width": true,
