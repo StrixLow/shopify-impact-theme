@@ -3323,11 +3323,6 @@ model-media model-viewer, model-media .shopify-model-viewer-ui {
   }
 }
 
-.link, .prose a:not(.button) {
-  text-underline: none;
-  background: linear-gradient(to right, currentColor, currentColor) 0 min(100%, 1.35em) / 100% 1px no-repeat;
-  transition: background-size .3s ease-in-out, color .3s ease-in-out;
-}
 
 @media screen and (pointer: fine) {
   :is(.link, .prose a:not(.button)):hover {
