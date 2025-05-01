@@ -9878,4 +9878,13 @@ split-lines {
   display: -webkit-box;
   overflow: hidden;
 }
+a:hover, a:focus {
+  outline: none !important;
+  box-shadow: none !important;
+  transform: none !important;
+}
 
+a {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
