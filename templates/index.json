@@ -189,7 +189,20 @@
       "custom_css": [
         ".image-link-blocks__image,.zoom-image {width: 500px; height: 300px; object-fit: cover; /* Garante que a imagem seja redimensionada sem distorcer a proporção */ display: block; margin: 0 auto; /* Centraliza a imagem */}"
       ],
-      "settings": {}
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     },
     "collection-list": {
       "type": "collection-list",
@@ -264,11 +277,12 @@
     },
     "featured-collection": {
       "type": "featured-collection",
+      "custom_css": [],
       "settings": {
         "collection": "moda-masculina-1",
         "products": [],
-        "full_width": false,
-        "stack_products": false,
+        "full_width": true,
+        "stack_products": true,
         "show_progress_bar": false,
         "products_count": 8,
         "products_per_row_mobile": "2",
