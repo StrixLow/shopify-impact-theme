@@ -60,7 +60,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Banner_para_loja_online_site_super_seguro_mercado_shops_medio_2800_x_1000_px.png",
-            "mobile_image": "shopify://shop_images/Banner_para_loja_online_site_super_seguro_mercado_shops_medio_2800_x_1000_px_1200_x_1600_px.png",
+            "mobile_image": "shopify://shop_images/Banner_para_loja_online_site_super_seguro_mercado_shops_medio_2800_x_1000_px_1200_x_1600_px_1.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -187,7 +187,8 @@
         "item_UWbnM7"
       ],
       "custom_css": [
-        ".image-link-blocks__image,.zoom-image {width: 500px; height: 300px; object-fit: cover; /* Garante que a imagem seja redimensionada sem distorcer a proporção */ display: block; margin: 0 auto; /* Centraliza a imagem */}"
+        "/* Estilo padrão para telas grandes (PC) */.image-link-blocks__image,.zoom-image {width: 600px; height: 250px; object-fit: cover; display: block; margin: 0 auto;}",
+        " /* Estilo para telas pequenas (celulares) */@media (max-width: 568px) {.image-link-blocks__image, .zoom-image {width: 500%; height: auto; max-height: 200px; }}"
       ],
       "settings": {
         "full_width": false,
