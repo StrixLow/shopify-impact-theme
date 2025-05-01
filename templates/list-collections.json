@@ -1,1 +1,30 @@
-{"sections":{"main":{"type":"main-list-collections","settings":{}}},"order":["main"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-list-collections",
+      "custom_css": [
+        "/* Estilo padrão para telas grandes (PC) */.image-link-blocks__image,.zoom-image {width: 600px; height: 350px; object-fit: cover; display: block; margin: 0 auto;}",
+        " /* Estilo para telas pequenas (celulares) */@media (max-width: 568px) {.image-link-blocks__image, .zoom-image {width: 500%; height: auto; max-height: 200px; }}"
+      ],
+      "settings": {
+        "collections": [],
+        "collections_per_row": 3,
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

@@ -168,6 +168,9 @@
     }
   },
   "platform_customizations": {
-    "custom_css": []
+    "custom_css": [
+      "/* Estilo padrão para telas grandes (PC) */.image-link-blocks__image,.zoom-image {width: 600px; height: 350px; object-fit: cover; display: block; margin: 0 auto;}",
+      " /* Estilo para telas pequenas (celulares) */@media (max-width: 568px) {.image-link-blocks__image, .zoom-image {width: 500%; height: auto; max-height: 200px; }}"
+    ]
   }
 }
