@@ -18,6 +18,10 @@
             "heading_tag": "h2"
           }
         },
+        "kudosi_ali_reviews_widget_star_rating_fmKzNp": {
+          "type": "shopify://apps/kudosi-ali-reviews/blocks/widget-star-rating/bf2eea72-0400-4db1-8908-44b7418f9a88",
+          "settings": {}
+        },
         "badges": {
           "type": "badges",
           "settings": {}
@@ -82,6 +86,7 @@
       },
       "block_order": [
         "title",
+        "kudosi_ali_reviews_widget_star_rating_fmKzNp",
         "badges",
         "price",
         "variant_picker",
@@ -112,6 +117,33 @@
         "input_text_color": ""
       }
     },
+    "1746079775e7e1e8d2": {
+      "type": "apps",
+      "blocks": {
+        "kudosi_ali_reviews_widget_box_MD3U9c": {
+          "type": "shopify://apps/kudosi-ali-reviews/blocks/widget-box/bf2eea72-0400-4db1-8908-44b7418f9a88",
+          "settings": {
+            "product": ""
+          }
+        }
+      },
+      "block_order": [
+        "kudosi_ali_reviews_widget_box_MD3U9c"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -137,6 +169,7 @@
   },
   "order": [
     "main",
+    "1746079775e7e1e8d2",
     "related-products"
   ]
 }
