@@ -16,7 +16,11 @@
         " /* Estilo para telas pequenas (celulares) */@media (max-width: 568px) {.image-link-blocks__image, .zoom-image {width: 500%; height: auto; max-height: 200px; }}"
       ],
       "settings": {
-        "collections": [],
+        "collections": [
+          "moda-masculina-1",
+          "moda-masculina",
+          "cama-e-banho"
+        ],
         "collections_per_row": 3,
         "text_color": "#ffffff",
         "overlay_color": "#000000",
