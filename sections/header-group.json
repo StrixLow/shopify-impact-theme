@@ -56,7 +56,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": true,
-        "logo": "shopify://shop_images/Design_sem_nome_5.png",
         "logo_max_width": 120,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
@@ -70,7 +69,7 @@
         "show_country_selector": false,
         "show_country_flag": false,
         "show_country_name": false,
-        "transparent_header_text_color": "#2b302c",
+        "transparent_header_text_color": "#ffffff",
         "reduce_padding": false,
         "background_opacity": 100,
         "background_blur_radius": 4
