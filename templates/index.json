@@ -15,8 +15,7 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Banner_para_loja_online_de_calcados_com_parcelamentos_verde_e_branco_2800_x_1000_px_2.png",
-            "mobile_image": "shopify://shop_images/Banner_para_loja_online_de_calcados_com_parcelamentos_verde_e_branco_2800_x_1000_px_1200_x_1600_px_3.png",
+            "image": "shopify://shop_images/Banner_para_loja_online_frete_gratis_rapido_amarelo.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -37,8 +36,6 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Banner_para_loja_online_de_calcados_com_parcelamentos_verde_e_branco_1800_x_600_mm_2800_x_1000_px_1.png",
-            "mobile_image": "shopify://shop_images/Banner_para_loja_online_de_calcados_com_parcelamentos_verde_e_branco_1800_x_600_mm_2800_x_1000_px_1200_x_1600_px_1.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -59,8 +56,6 @@
         "image_AMnieL": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Banner_para_loja_online_site_super_seguro_mercado_shops_medio_2800_x_1000_px_1.png",
-            "mobile_image": "shopify://shop_images/Banner_para_loja_online_site_super_seguro_mercado_shops_medio_2800_x_1000_px_1200_x_1600_px_1.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -81,8 +76,6 @@
         "image_jX9XBF": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Banner_Frete_Gratis_de_roupas_para_Mercado_Shops_3200_x_1600_px_2800_x_1000_px.png",
-            "mobile_image": "shopify://shop_images/Banner_Frete_Gratis_de_roupas_para_Mercado_Shops_3200_x_1600_px_1200_x_1600_px.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -125,7 +118,6 @@
         "1664424046b00c932c-0": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Sacfda627dbdd44df9e4e1b07ef02fccdx.webp",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -138,7 +130,6 @@
         "1664424046b00c932c-1": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Se9f8af6cdc3941b8911679bcc39bdaccV.webp",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -151,7 +142,6 @@
         "1664424046b00c932c-2": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/S47cf26d66a1040b48e61fff16166fa2aI.webp",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -164,7 +154,6 @@
         "1664424046b00c932c-3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/S0c234426d7df469d91373c65f0b565c0D.webp",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -177,7 +166,6 @@
         "e4a0ef18-1856-4ddd-83d8-871a60d7acac": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Sa3ade180933646f5ab8758790bff7d95P.webp",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -190,7 +178,6 @@
         "item_UWbnM7": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/S9461e2af242745b386725584fef9725ao.webp",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -394,8 +381,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Banner_para_loja_online_de_roupas_conforto_e_estilo_para_cada_ocasiao_3200_x_1600_px_1f6fca5a-c3b2-4660-ad51-57758b27978b.png",
-        "mobile_image": "shopify://shop_images/Banner_Mobile.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -409,7 +394,6 @@
         "item-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/S555e2296f6a84719876e5d9f95da2f97L.webp",
             "title": "Exclusividade",
             "heading_tag": "h4",
             "link_url": "",
@@ -431,7 +415,6 @@
         "item-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Sf4019d199a774a15b77ba7f1ff89a78dW.webp",
             "title": "Elegância",
             "heading_tag": "h4",
             "link_url": "",
@@ -453,7 +436,6 @@
         "item-3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/S04bc0cee89cf45bbae06d42a544e82b4z.webp",
             "title": "Malha Premium",
             "heading_tag": "h4",
             "link_url": "",
@@ -475,7 +457,6 @@
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Saff675cc757c40bc97bf22c1d4a74f9eZ.webp",
             "title": "Caimento Impecável",
             "heading_tag": "h4",
             "link_url": "",
@@ -517,8 +498,6 @@
         "subheading": "",
         "title": "Do seu gosto!",
         "content": "<p>Produtos LarCasual com acabamento premium para seu ambiente!</p>",
-        "before_image": "shopify://shop_images/S19ec871c987c4be2994192203c0c7842y.webp",
-        "after_image": "shopify://shop_images/Sca72d5f0915c4b02b47a4ab33d6db2387.webp",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "bottom",
@@ -622,7 +601,6 @@
       "disabled": true,
       "settings": {
         "full_width": false,
-        "image": "shopify://shop_images/S80a466c9179e4fd5832a664b4d0d44eeL.webp",
         "title": "",
         "content": "",
         "button_text": "",
@@ -675,7 +653,6 @@
         "1664424486a2b084ab-0": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Se036009d5aa24d84b4b48953fd4ae02dh.webp",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Elegância!",
@@ -687,7 +664,6 @@
         "1664424486a2b084ab-1": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Sb344c1df523b41e7874ef0baa020ae23W.webp",
             "image_rotation_degrees": 1.5,
             "subheading": "",
             "title": "Conforto!",
