@@ -532,7 +532,7 @@
           "settings": {
             "logo_width": 100,
             "author": "",
-            "content": "Precisando de ajuda? Entre em contato conosco",
+            "content": "Precisando de ajuda? Entre em contato conosco.",
             "show_rating": false,
             "rating": 4
           }
@@ -710,7 +710,7 @@
           "type": "item",
           "settings": {
             "title": "Quer falar com nossa equipe?",
-            "content": "<p>Estaremos sempre disponíveis via WhatsApp ou email.</p><p>Contato aos finais de semana somente via email.</p>"
+            "content": "<p>Estaremos sempre disponíveis via WhatsApp ou email de <strong>segunda</strong> a <strong>sexta!</strong></p><p>Contato aos <strong>finais de semana</strong> somente via email.</p>"
           }
         }
       },

@@ -37,7 +37,7 @@
             "icon_background": "",
             "icon_color": "#3c463e",
             "title": "Suporte ao Cliente",
-            "content": "<p>Nosso atendimento é via <strong>WhatsApp</strong> de <strong>Seg a Sex</strong> das 08:00 as 18:00.</p>"
+            "content": "<p>Nosso atendimento é via <strong>WhatsApp</strong> de <strong>Segunda a Sexta</strong> das 08:00 as 18:00.</p>"
           }
         },
         "discount": {
@@ -63,7 +63,7 @@
             "icon_background": "",
             "icon_color": "#3c463e",
             "title": "Ambiente Seguro",
-            "content": "<p>Ambiente <strong>confiavel e seguro</strong> para melhor comodidade e melhor atendimento aos clientes.</p>"
+            "content": "<p>Ambiente <strong>confiavel e seguro</strong> para melhor comodidade.</p>"
           }
         }
       },
