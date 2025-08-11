@@ -12,6 +12,28 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
+        "image_AMnieL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Banner_para_loja_de_ofertas_de_dia_dos_pais_chamativo_azul_2800_x_1000_px.png",
+            "mobile_image": "shopify://shop_images/Banner_para_loja_de_ofertas_de_dia_dos_pais_chamativo_azul_2800_x_1000_px_1200_x_1600_px_1.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 10,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
         "slide-2": {
           "type": "image",
           "settings": {
@@ -56,49 +78,11 @@
             "background_gradient": ""
           }
         },
-        "image_mKcXwe": {
-          "type": "image",
-          "settings": {
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "background": "",
-            "background_gradient": ""
-          }
-        },
-        "image_AMnieL": {
-          "type": "image",
-          "settings": {
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 10,
-            "background": "",
-            "background_gradient": ""
-          }
-        },
         "image_jX9XBF": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Banner_Colecao_Outono_Fashion_Nude_2800_x_1000_px.png",
+            "mobile_image": "shopify://shop_images/Banner_Colecao_Outono_Fashion_Nude_2800_x_1000_px_1200_x_1600_px.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -118,10 +102,9 @@
         }
       },
       "block_order": [
+        "image_AMnieL",
         "slide-2",
         "slide-1",
-        "image_mKcXwe",
-        "image_AMnieL",
         "image_jX9XBF"
       ],
       "settings": {
