@@ -36,6 +36,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Banner_1_pc.png",
+            "mobile_image": "shopify://shop_images/Banner_para_loja_online_frete_gratis_rapido_amarelo_2800_x_1000_px_1200_x_1600_px.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
