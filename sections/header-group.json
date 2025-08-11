@@ -42,10 +42,10 @@
         "message_w6UV4z"
       ],
       "settings": {
-        "enable_sticky": false,
+        "enable_sticky": true,
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
-        "scrolling_speed": 17,
+        "scrolling_speed": 18,
         "background": "#3c463e",
         "background_gradient": "",
         "text_color": "#ced6cf"
