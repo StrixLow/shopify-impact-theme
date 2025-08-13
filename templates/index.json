@@ -125,6 +125,7 @@
         "1664424046b00c932c-0": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Sa2ea48bbc44c4540b859dcd3550f45efZ.webp",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -208,7 +209,7 @@
         " /* Estilo para telas pequenas (celulares) */@media (max-width: 568px) {.image-link-blocks__image, .zoom-image {width: 500%; height: auto; max-height: 200px; }}"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "block_size": "medium",
         "subheading": "",
         "title": "",
