@@ -307,8 +307,15 @@
       "type": "featured-collection",
       "custom_css": [],
       "settings": {
-        "collection": "moda-masculina-1",
-        "products": [],
+        "collection": "exclusivos",
+        "products": [
+          "blushgraceconjuntopremium",
+          "blushmotion",
+          "nova-moda-de-manga-comprida-esportes-lazer-duas-pecas-feminino-outono-inverno-casual-ultra-curto-cordao-rendas-ate-calcas-femininas-terno",
+          "oliveprime",
+          "tropical-bloom",
+          "ivory-royale"
+        ],
         "full_width": false,
         "stack_products": true,
         "show_progress_bar": true,
@@ -397,6 +404,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/S6636d0ff00274f52b1bf4003c5f7d028p.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
