@@ -235,6 +235,7 @@
           "type": "collection",
           "settings": {
             "collection": "moda-masculina",
+            "image": "shopify://shop_images/S7c424e66b69c4aea8a7c4cb40eaaa1ee5_d3e44a10-81c5-41c9-a26a-e5e7da3ced51.webp",
             "subheading": "",
             "title": "",
             "url": "",
@@ -248,7 +249,8 @@
         "collection-2": {
           "type": "collection",
           "settings": {
-            "collection": "moda-masculina-1",
+            "collection": "moda-feminina",
+            "image": "shopify://shop_images/S1835795e2f264cd5be7ba153bb335868Q.webp",
             "subheading": "",
             "title": "",
             "url": "",
@@ -262,7 +264,8 @@
         "collection-3": {
           "type": "collection",
           "settings": {
-            "collection": "cama-e-banho",
+            "collection": "moda-da-casa",
+            "image": "shopify://shop_images/S18c5f7e43c634155bcee487779fa39e0O.webp",
             "subheading": "",
             "title": "",
             "url": "",
