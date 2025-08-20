@@ -418,6 +418,7 @@
         "item-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Se57ba8954ec348edab09ea2147060268r.webp",
             "title": "Exclusividade",
             "heading_tag": "h4",
             "link_url": "",
@@ -439,6 +440,7 @@
         "item-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Sd279822f287c4c0e9dddad8ddc6d3b911.webp",
             "title": "Elegância",
             "heading_tag": "h4",
             "link_url": "",
@@ -460,6 +462,7 @@
         "item-3": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Sd1c434c1ed2e4ccd87c1e641de6e99f67.webp",
             "title": "Malha Premium",
             "heading_tag": "h4",
             "link_url": "",
@@ -481,6 +484,7 @@
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Sb03885d8f5544f0b9e24510797876a3fp.webp",
             "title": "Caimento Impecável",
             "heading_tag": "h4",
             "link_url": "",
@@ -677,6 +681,7 @@
         "1664424486a2b084ab-0": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/S20a9c0b7048b40ada71bbe474e721773b.webp",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Elegância!",
@@ -688,6 +693,7 @@
         "1664424486a2b084ab-1": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/S4efbb8144ba647d1bcb2d7e35df259cb9.webp",
             "image_rotation_degrees": 1.5,
             "subheading": "",
             "title": "Conforto!",
