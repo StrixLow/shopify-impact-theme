@@ -15,8 +15,8 @@
         "image_AMnieL": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Banner_para_loja_de_ofertas_de_dia_dos_pais_chamativo_azul_2800_x_1000_px.png",
-            "mobile_image": "shopify://shop_images/Banner_para_loja_de_ofertas_de_dia_dos_pais_chamativo_azul_2800_x_1000_px_1200_x_1600_px_1.png",
+            "image": "shopify://shop_images/1PC.png",
+            "mobile_image": "shopify://shop_images/1.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -37,8 +37,8 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Banner_1_pc.png",
-            "mobile_image": "shopify://shop_images/Banner_para_loja_online_frete_gratis_rapido_amarelo_2800_x_1000_px_1200_x_1600_px.png",
+            "image": "shopify://shop_images/2PC.png",
+            "mobile_image": "shopify://shop_images/2.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -81,8 +81,8 @@
         "image_jX9XBF": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Banner_Colecao_Outono_Fashion_Nude_2800_x_1000_px.png",
-            "mobile_image": "shopify://shop_images/Banner_Colecao_Outono_Fashion_Nude_2800_x_1000_px_1200_x_1600_px.png",
+            "image": "shopify://shop_images/3pc.png",
+            "mobile_image": "shopify://shop_images/3.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
